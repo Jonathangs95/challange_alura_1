@@ -110,16 +110,6 @@ O script irá:
 - Realizar os cálculos de faturamento, vendas por categoria, avaliação e tipos de pagamento  
 - Exibir os principais resultados no terminal e gráficos com Matplotlib  
 
----
-
-## 📌 Possíveis Evoluções
-
-Algumas ideias de melhorias futuras:
-
-- Criação de um dashboard interativo (Streamlit/Power BI) com os principais indicadores.  
-- Inclusão de testes automatizados para validar os cálculos.  
-- Organização das análises em funções e módulos separados (por exemplo: faturamento, avaliação, pagamento).  
-- Exportar o relatório final automaticamente em PDF ou HTML.
 
 ---
 
