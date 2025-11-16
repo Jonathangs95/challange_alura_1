@@ -70,50 +70,12 @@ Os dados são carregados diretamente de arquivos CSV hospedados no GitHub oficia
 
 ## 🚀 Como Executar o Projeto
 
-1. **Clonar o repositório**
+1. **Arquivo ipynb**
 
-```bash
-git clone https://github.com/seu-usuario/alurastorebrasil.git
-cd alurastorebrasil
-```
-
-2. **Criar e ativar um ambiente virtual (opcional, mas recomendado)**
-
-```bash
-python -m venv venv
-venv\Scripts\activate  # Windows
-# ou
-source venv/bin/activate  # Linux/Mac
-```
-
-3. **Instalar as dependências**
-
-```bash
-pip install -r requirements.txt
-```
-
-*(Caso não tenha um `requirements.txt`, você pode instalar manualmente:)*
-
-```bash
-pip install pandas matplotlib
-```
-
-4. **Executar o script**
-
-```bash
-python alurastorebrasil.py
-```
-
-O script irá:  
-
-- Carregar os dados das quatro lojas via URL  
-- Realizar os cálculos de faturamento, vendas por categoria, avaliação e tipos de pagamento  
-- Exibir os principais resultados no terminal e gráficos com Matplotlib  
+- Realize o download do arquivo: AluraStoreBrasil_Jonathan.ipynb
+- Abra o google colab
+- Abra o arquivo ipynb no google colab
+- Conect-se e rode os scripts
 
 
----
 
-## 📄 Licença
-
-Este projeto foi desenvolvido para fins de estudo com base no *Alura Challenge Data Science*.  
-Sinta-se à vontade para usar, adaptar e evoluir o código para seus próprios estudos.
